@@ -1,3 +1,3 @@
 #!/bin/bash
-eho Helo, World
+echo Helo, World
 
